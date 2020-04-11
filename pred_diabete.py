@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 
 import matplotlib.pyplot as plt
 
-df=pd.read_csv('diabetes-1.csv/diabetes-1.csv')
+df=pd.read_csv('diabetes-1.csv')
 
 """
 plt.figure()
